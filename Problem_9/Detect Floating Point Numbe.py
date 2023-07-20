@@ -94,4 +94,5 @@ is not None: This part checks if the result of the re.search function is not Non
 
 print(...): Finally, the result of the expression (whether the input is a valid floating-point number or not) is printed.
 
-To summarize, this code prompts the user to enter a certain number of strings, and for each string entered, it checks if it represents a valid floating-point number and prints the result (True or False) accordingly. The regular expression used ensures that the string adheres to the format of a floating-point number.''' 
+To summarize, this code prompts the user to enter a certain number of strings, and for each string entered, it checks if it represents a valid floating-point number and prints the result (True or False) accordingly. The regular expression used ensures that the string adheres to the format of a floating-point number.
+''' 
