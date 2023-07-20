@@ -66,7 +66,7 @@ SomeRandomStuff: is not a number.
 
 
 import re
-for _ in range(int(input())):
+for i in range(int(input())):
     print(re.search(r'^([-\+])?\d*\.\d+$', input()) is not None)
 
 '''
