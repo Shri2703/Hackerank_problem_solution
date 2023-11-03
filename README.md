@@ -6,7 +6,7 @@ the problem name will be in commit line and you will have the question of the pr
 
 
 Example :
-
+#Questions 
 #Addtion  of two number 
 
 #solution  
