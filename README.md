@@ -7,7 +7,7 @@ the problem name will be in commit line and you will have the question of the pr
 Example :
 #Questions : Addtion  of two number 
 
-#solution  
+#Solution  
 
 num1=int(input("Enter number 1"))
 num2=int(input("Enter number 2"))
