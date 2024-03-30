@@ -61,6 +61,7 @@ In the second query, the function print_from_stream(3) is exectuted, which leads
 
 In the third query, the function print_from_stream(5, OddStream()) is exectuted, which leads to printing values  and  in separated lines as the first five non-negative odd numbers.
 
+
 '''
 
 #Solution
